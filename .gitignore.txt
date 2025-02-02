@@ -1,0 +1,12 @@
+# Ignore system folders
+AppData/
+*.cache
+*.jtx
+Cisco Packet Tracer/
+
+# Ignore Windows system files
+AppData/
+*.cache
+*.jtx
+Cisco Packet Tracer/
+*.log
